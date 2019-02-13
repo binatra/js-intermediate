@@ -1,3 +1,4 @@
+//https://www.rithmschool.com/courses/intermediate-javascript/javascript-dom-events-exercises 
 window.onload = function(){
     let helloWorld = document.getElementById('change_heading');
     helloWorld.innerText = 'Hello World!';
